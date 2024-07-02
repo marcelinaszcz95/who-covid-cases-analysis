@@ -12,7 +12,8 @@ world_data_output_path = os.path.join(data_path,'processed', 'covid_19_world')
 
 print(f'output directories:\n {world_data_output_path}')
 
-input_data = pd.read_csv(csv_path)
+data = pd.read_csv(csv_path)
+input_data = data.copy()
 
 print(input_data.info()) # checks the data types
 
