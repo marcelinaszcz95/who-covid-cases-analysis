@@ -7,18 +7,18 @@ This repository contains a script for data analysis using Python. The script is 
 
 ## Features
 
-    - Data extraction
-    - Data cleaning
-    - Summary output files generation
+ - Data extraction
+ - Data cleaning
+ - Summary output files generation
 
 ## Getting Started
 
 ### Prerequisites
-    - Python 3.x
-    - Required libraries:
-        - pandas
-        - os
-        - datetime
+- Python 3.x
+- Required libraries:
+  - pandas
+  - os
+  - datetime
 
 You can install the required libraries using:
 
