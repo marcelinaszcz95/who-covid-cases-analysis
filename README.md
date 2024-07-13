@@ -26,13 +26,13 @@ pip install
 
 ## Installation
 
-    - Clone the repository:
+- Clone the repository:
 
-git clone https://github.com/marcelinaszcz95/who-covid-cases-analysis.git
+ - git clone https://github.com/marcelinaszcz95/who-covid-cases-analysis.git
 
-    - Navigate to the project directory:
+- Navigate to the project directory:
 
-cd who-covid-cases-analysis
+ - cd who-covid-cases-analysis
 
 ## Data Source
 
