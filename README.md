@@ -28,7 +28,7 @@ pip install
 
 - Clone the repository:
 
- - git clone https://github.com/marcelinaszcz95/who-covid-cases-analysis.git
+   - git clone https://github.com/marcelinaszcz95/who-covid-cases-analysis.git
 
 - Navigate to the project directory:
 
