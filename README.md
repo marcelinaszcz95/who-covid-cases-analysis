@@ -1,5 +1,7 @@
 # WHO Covid-19 cases analysis with Python
 
+![Dashboard Preview](Dashboard_COVID19_cases_EURO_2020.png)
+
 
 ## Overview
 
